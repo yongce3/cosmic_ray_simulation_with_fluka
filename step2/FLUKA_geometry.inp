@@ -1,0 +1,77 @@
+*
+* Created: 30.10.2024
+* At: 12:2:25
+TITLE
+MC-CAD Test
+DEFAULTS                                                              PRECISIO
+*GLOBAL          1000         0         0         0         1       0.0
+*
+!#define dpmjet
+*
+!#if dpmjet
+***  Dpmjet:
+*         Z range  Inj.Radius  Emin      Emax     Sampling parameters
+*        flag      vert. cutoff
+*SPECSOUR        28.0 6.449E+08       0.3   30000.0      1.75     500.0GCR-IONF
+*SPECSOUR         2.0      11.4                                         &
+*
+*IONTRANS    HEAVYION
+***  End Dpmjet
+!#else
+***  No Dpmjet:
+*         Z range  Inj.Radius  Emin      Emax     Sampling parameters
+*        flag      vert. cutoff                             split
+*SPECSOUR        28.0 6.449E+08       0.3   30000.0      1.75     500.0GCR-IONF
+*SPECSOUR         2.0      11.4                                     1.0 &
+*
+*IONTRANS    4-HELIUM
+* The following to split the ions:
+*PHYSICS          1.0       0.1  1000000.                              IONSPLIT
+***  End no Dpmjet
+!#endif
+GEOBEGIN                                                              COMBNAME
+    0    0          MC-CAD
+SPH heiti      0 0 0 100000
+SPH airbody    0 0 0 1000
+* Box
+RPP Box        -10.00 10.00 -10.00 10.00 -2.00 2.00
+* Box
+RPP Pool       -10.00 10.00 -10.00 10.00 3.00 4.00
+END
+* Reg # 1
+* Difference; assigned material: Blackhole; mat # (1)
+heitireg     5 +heiti -airbody
+* Reg # 2
+* Difference; assigned material: AIR; mat # (28)
+airreg       5 +airbody -Box
+* Reg # 2
+* Difference; assigned material: AIR; mat # (28)
+poolreg      5 +Pool -airbody
+* Reg # 3
+* Box; assigned material: Hydrogen; mat # (3)
+Box          5 +Box
+END
+GEOEND
+COMPOUND         8.0    CARBON       8.0  HYDROGEN                    mater
+MATERIAL                           1.023                              mater
+ASSIGNMA    BLCKHOLE  heitireg
+ASSIGNMA         AIR    airreg
+ASSIGNMA         AIR   poolreg
+ASSIGNMA       mater       Box
+BEAM        200000.0
+*DPMJET                      21         0
+*PHYSICS         4000                                                  LIMITS
+*PHYSICS         4000                                                 1DPMTHRES
+*BEAMPOS           -5        -5       3.5
+*DPMJET                      19         0
+*IONTRANS          -2
+SOURCE
+*USRBDX                 NEUTRON       -39       Box       Box
+*USRBDX                0.000001                                         &
+*EVENTBIN        10.0    ENERGY       -33        10        10         2
+*EVENTBIN         -10       -10        -2       100       100        20 &
+USRBIN            10    ENERGY       -22        12        12         2
+USRBIN           -12       -12        -2       240       240        20 &
+RANDOMIZ         1.0
+START        100000.                                     0.0
+STOP
