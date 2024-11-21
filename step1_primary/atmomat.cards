@@ -1,0 +1,406 @@
+* Material cards:
+MATERIAL                       8.781E-08                              AIR001
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR001
+MATERIAL                       1.036E-07                              AIR002
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR002
+MATERIAL                       1.220E-07                              AIR003
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR003
+MATERIAL                       1.435E-07                              AIR004
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR004
+MATERIAL                       1.686E-07                              AIR005
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR005
+MATERIAL                       1.978E-07                              AIR006
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR006
+MATERIAL                       2.319E-07                              AIR007
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR007
+MATERIAL                       2.714E-07                              AIR008
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR008
+MATERIAL                       3.174E-07                              AIR009
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR009
+MATERIAL                       3.706E-07                              AIR010
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR010
+MATERIAL                       4.323E-07                              AIR011
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR011
+MATERIAL                       5.038E-07                              AIR012
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR012
+MATERIAL                       5.863E-07                              AIR013
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR013
+MATERIAL                       6.816E-07                              AIR014
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR014
+MATERIAL                       7.915E-07                              AIR015
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR015
+MATERIAL                       9.181E-07                              AIR016
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR016
+MATERIAL                       1.064E-06                              AIR017
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR017
+MATERIAL                       1.231E-06                              AIR018
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR018
+MATERIAL                       1.424E-06                              AIR019
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR019
+MATERIAL                       1.644E-06                              AIR020
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR020
+MATERIAL                       1.897E-06                              AIR021
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR021
+MATERIAL                       2.186E-06                              AIR022
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR022
+MATERIAL                       2.517E-06                              AIR023
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR023
+MATERIAL                       2.895E-06                              AIR024
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR024
+MATERIAL                       3.327E-06                              AIR025
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR025
+MATERIAL                       3.819E-06                              AIR026
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR026
+MATERIAL                       4.380E-06                              AIR027
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR027
+MATERIAL                       5.018E-06                              AIR028
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR028
+MATERIAL                       5.744E-06                              AIR029
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR029
+MATERIAL                       6.568E-06                              AIR030
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR030
+MATERIAL                       7.503E-06                              AIR031
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR031
+MATERIAL                       8.564E-06                              AIR032
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR032
+MATERIAL                       9.766E-06                              AIR033
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR033
+MATERIAL                       1.113E-05                              AIR034
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR034
+MATERIAL                       1.267E-05                              AIR035
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR035
+MATERIAL                       1.440E-05                              AIR036
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR036
+MATERIAL                       1.637E-05                              AIR037
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR037
+MATERIAL                       1.858E-05                              AIR038
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR038
+MATERIAL                       2.108E-05                              AIR039
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR039
+MATERIAL                       2.389E-05                              AIR040
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR040
+MATERIAL                       2.706E-05                              AIR041
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR041
+MATERIAL                       3.061E-05                              AIR042
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR042
+MATERIAL                       3.461E-05                              AIR043
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR043
+MATERIAL                       3.914E-05                              AIR044
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR044
+MATERIAL                       4.376E-05                              AIR045
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR045
+MATERIAL                       4.877E-05                              AIR046
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR046
+MATERIAL                       5.425E-05                              AIR047
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR047
+MATERIAL                       6.024E-05                              AIR048
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR048
+MATERIAL                       6.676E-05                              AIR049
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR049
+MATERIAL                       7.385E-05                              AIR050
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR050
+MATERIAL                       8.155E-05                              AIR051
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR051
+MATERIAL                       8.989E-05                              AIR052
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR052
+MATERIAL                       9.892E-05                              AIR053
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR053
+MATERIAL                       1.087E-04                              AIR054
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR054
+MATERIAL                       1.192E-04                              AIR055
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR055
+MATERIAL                       1.305E-04                              AIR056
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR056
+MATERIAL                       1.427E-04                              AIR057
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR057
+MATERIAL                       1.557E-04                              AIR058
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR058
+MATERIAL                       1.697E-04                              AIR059
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR059
+MATERIAL                       1.846E-04                              AIR060
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR060
+MATERIAL                       2.006E-04                              AIR061
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR061
+MATERIAL                       2.176E-04                              AIR062
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR062
+MATERIAL                       2.358E-04                              AIR063
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR063
+MATERIAL                       2.551E-04                              AIR064
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR064
+MATERIAL                       2.755E-04                              AIR065
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR065
+MATERIAL                       2.973E-04                              AIR066
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR066
+MATERIAL                       3.203E-04                              AIR067
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR067
+MATERIAL                       3.446E-04                              AIR068
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR068
+MATERIAL                       3.600E-04                              AIR069
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR069
+MATERIAL                       3.903E-04                              AIR070
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR070
+MATERIAL                       4.124E-04                              AIR071
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR071
+MATERIAL                       4.349E-04                              AIR072
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR072
+MATERIAL                       4.581E-04                              AIR073
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR073
+MATERIAL                       4.816E-04                              AIR074
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR074
+MATERIAL                       5.057E-04                              AIR075
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR075
+MATERIAL                       5.303E-04                              AIR076
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR076
+MATERIAL                       5.552E-04                              AIR077
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR077
+MATERIAL                       5.806E-04                              AIR078
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR078
+MATERIAL                       6.065E-04                              AIR079
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR079
+MATERIAL                       6.327E-04                              AIR080
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR080
+MATERIAL                       6.592E-04                              AIR081
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR081
+MATERIAL                       6.862E-04                              AIR082
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR082
+MATERIAL                       7.134E-04                              AIR083
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR083
+MATERIAL                       7.410E-04                              AIR084
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR084
+MATERIAL                       7.689E-04                              AIR085
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR085
+MATERIAL                       7.971E-04                              AIR086
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR086
+MATERIAL                       8.255E-04                              AIR087
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR087
+MATERIAL                       8.542E-04                              AIR088
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR088
+MATERIAL                       8.831E-04                              AIR089
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR089
+MATERIAL                       9.122E-04                              AIR090
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR090
+MATERIAL                       9.415E-04                              AIR091
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR091
+MATERIAL                       9.710E-04                              AIR092
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR092
+MATERIAL                       1.001E-03                              AIR093
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR093
+MATERIAL                       1.030E-03                              AIR094
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR094
+MATERIAL                       1.060E-03                              AIR095
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR095
+MATERIAL                       1.090E-03                              AIR096
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR096
+MATERIAL                       1.121E-03                              AIR097
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR097
+MATERIAL                       1.151E-03                              AIR098
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR098
+MATERIAL                       1.181E-03                              AIR099
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR099
+MATERIAL                       1.211E-03                              AIR100
+COMPOUND  -.9256E-03  NITROGEN-.2837E-03    OXYGEN-.01572E-3     ARGONAIR100
+* Mat-prop cards:
+MAT-PROP   7.168E-05                        AIR001    AIR001       1.0
+MAT-PROP   8.453E-05                        AIR002    AIR002       1.0
+MAT-PROP   9.957E-05                        AIR003    AIR003       1.0
+MAT-PROP   1.171E-04                        AIR004    AIR004       1.0
+MAT-PROP   1.376E-04                        AIR005    AIR005       1.0
+MAT-PROP   1.615E-04                        AIR006    AIR006       1.0
+MAT-PROP   1.893E-04                        AIR007    AIR007       1.0
+MAT-PROP   2.216E-04                        AIR008    AIR008       1.0
+MAT-PROP   2.591E-04                        AIR009    AIR009       1.0
+MAT-PROP   3.026E-04                        AIR010    AIR010       1.0
+MAT-PROP   3.529E-04                        AIR011    AIR011       1.0
+MAT-PROP   4.112E-04                        AIR012    AIR012       1.0
+MAT-PROP   4.786E-04                        AIR013    AIR013       1.0
+MAT-PROP   5.564E-04                        AIR014    AIR014       1.0
+MAT-PROP   6.461E-04                        AIR015    AIR015       1.0
+MAT-PROP   7.494E-04                        AIR016    AIR016       1.0
+MAT-PROP   8.684E-04                        AIR017    AIR017       1.0
+MAT-PROP   1.005E-03                        AIR018    AIR018       1.0
+MAT-PROP   1.162E-03                        AIR019    AIR019       1.0
+MAT-PROP   1.342E-03                        AIR020    AIR020       1.0
+MAT-PROP   1.549E-03                        AIR021    AIR021       1.0
+MAT-PROP   1.785E-03                        AIR022    AIR022       1.0
+MAT-PROP   2.055E-03                        AIR023    AIR023       1.0
+MAT-PROP   2.364E-03                        AIR024    AIR024       1.0
+MAT-PROP   2.716E-03                        AIR025    AIR025       1.0
+MAT-PROP   3.118E-03                        AIR026    AIR026       1.0
+MAT-PROP   3.575E-03                        AIR027    AIR027       1.0
+MAT-PROP   4.096E-03                        AIR028    AIR028       1.0
+MAT-PROP   4.689E-03                        AIR029    AIR029       1.0
+MAT-PROP   5.361E-03                        AIR030    AIR030       1.0
+MAT-PROP   6.125E-03                        AIR031    AIR031       1.0
+MAT-PROP   6.991E-03                        AIR032    AIR032       1.0
+MAT-PROP   7.972E-03                        AIR033    AIR033       1.0
+MAT-PROP   9.083E-03                        AIR034    AIR034       1.0
+MAT-PROP   1.034E-02                        AIR035    AIR035       1.0
+MAT-PROP   1.176E-02                        AIR036    AIR036       1.0
+MAT-PROP   1.336E-02                        AIR037    AIR037       1.0
+MAT-PROP   1.517E-02                        AIR038    AIR038       1.0
+MAT-PROP   1.721E-02                        AIR039    AIR039       1.0
+MAT-PROP   1.950E-02                        AIR040    AIR040       1.0
+MAT-PROP   2.209E-02                        AIR041    AIR041       1.0
+MAT-PROP   2.499E-02                        AIR042    AIR042       1.0
+MAT-PROP   2.826E-02                        AIR043    AIR043       1.0
+MAT-PROP   3.195E-02                        AIR044    AIR044       1.0
+MAT-PROP   3.572E-02                        AIR045    AIR045       1.0
+MAT-PROP   3.981E-02                        AIR046    AIR046       1.0
+MAT-PROP   4.429E-02                        AIR047    AIR047       1.0
+MAT-PROP   4.917E-02                        AIR048    AIR048       1.0
+MAT-PROP   5.450E-02                        AIR049    AIR049       1.0
+MAT-PROP   6.028E-02                        AIR050    AIR050       1.0
+MAT-PROP   6.657E-02                        AIR051    AIR051       1.0
+MAT-PROP   7.338E-02                        AIR052    AIR052       1.0
+MAT-PROP   8.075E-02                        AIR053    AIR053       1.0
+MAT-PROP   8.871E-02                        AIR054    AIR054       1.0
+MAT-PROP   9.729E-02                        AIR055    AIR055       1.0
+MAT-PROP   1.065E-01                        AIR056    AIR056       1.0
+MAT-PROP   1.164E-01                        AIR057    AIR057       1.0
+MAT-PROP   1.271E-01                        AIR058    AIR058       1.0
+MAT-PROP   1.385E-01                        AIR059    AIR059       1.0
+MAT-PROP   1.507E-01                        AIR060    AIR060       1.0
+MAT-PROP   1.638E-01                        AIR061    AIR061       1.0
+MAT-PROP   1.777E-01                        AIR062    AIR062       1.0
+MAT-PROP   1.925E-01                        AIR063    AIR063       1.0
+MAT-PROP   2.082E-01                        AIR064    AIR064       1.0
+MAT-PROP   2.249E-01                        AIR065    AIR065       1.0
+MAT-PROP   2.427E-01                        AIR066    AIR066       1.0
+MAT-PROP   2.615E-01                        AIR067    AIR067       1.0
+MAT-PROP   2.813E-01                        AIR068    AIR068       1.0
+MAT-PROP   2.938E-01                        AIR069    AIR069       1.0
+MAT-PROP   3.186E-01                        AIR070    AIR070       1.0
+MAT-PROP   3.366E-01                        AIR071    AIR071       1.0
+MAT-PROP   3.551E-01                        AIR072    AIR072       1.0
+MAT-PROP   3.739E-01                        AIR073    AIR073       1.0
+MAT-PROP   3.932E-01                        AIR074    AIR074       1.0
+MAT-PROP   4.128E-01                        AIR075    AIR075       1.0
+MAT-PROP   4.329E-01                        AIR076    AIR076       1.0
+MAT-PROP   4.533E-01                        AIR077    AIR077       1.0
+MAT-PROP   4.740E-01                        AIR078    AIR078       1.0
+MAT-PROP   4.951E-01                        AIR079    AIR079       1.0
+MAT-PROP   5.165E-01                        AIR080    AIR080       1.0
+MAT-PROP   5.382E-01                        AIR081    AIR081       1.0
+MAT-PROP   5.601E-01                        AIR082    AIR082       1.0
+MAT-PROP   5.824E-01                        AIR083    AIR083       1.0
+MAT-PROP   6.049E-01                        AIR084    AIR084       1.0
+MAT-PROP   6.277E-01                        AIR085    AIR085       1.0
+MAT-PROP   6.507E-01                        AIR086    AIR086       1.0
+MAT-PROP   6.739E-01                        AIR087    AIR087       1.0
+MAT-PROP   6.973E-01                        AIR088    AIR088       1.0
+MAT-PROP   7.209E-01                        AIR089    AIR089       1.0
+MAT-PROP   7.446E-01                        AIR090    AIR090       1.0
+MAT-PROP   7.686E-01                        AIR091    AIR091       1.0
+MAT-PROP   7.926E-01                        AIR092    AIR092       1.0
+MAT-PROP   8.168E-01                        AIR093    AIR093       1.0
+MAT-PROP   8.412E-01                        AIR094    AIR094       1.0
+MAT-PROP   8.656E-01                        AIR095    AIR095       1.0
+MAT-PROP   8.901E-01                        AIR096    AIR096       1.0
+MAT-PROP   9.147E-01                        AIR097    AIR097       1.0
+MAT-PROP   9.394E-01                        AIR098    AIR098       1.0
+MAT-PROP   9.641E-01                        AIR099    AIR099       1.0
+MAT-PROP   9.889E-01                        AIR100    AIR100       1.0
+* Assignmat cards:
+ASSIGNMA      AIR001    Air001                           0.0
+ASSIGNMA      AIR002    Air002                           0.0
+ASSIGNMA      AIR003    Air003                           0.0
+ASSIGNMA      AIR004    Air004                           0.0
+ASSIGNMA      AIR005    Air005                           0.0
+ASSIGNMA      AIR006    Air006                           0.0
+ASSIGNMA      AIR007    Air007                           0.0
+ASSIGNMA      AIR008    Air008                           0.0
+ASSIGNMA      AIR009    Air009                           0.0
+ASSIGNMA      AIR010    Air010                           0.0
+ASSIGNMA      AIR011    Air011                           0.0
+ASSIGNMA      AIR012    Air012                           0.0
+ASSIGNMA      AIR013    Air013                           0.0
+ASSIGNMA      AIR014    Air014                           0.0
+ASSIGNMA      AIR015    Air015                           0.0
+ASSIGNMA      AIR016    Air016                           0.0
+ASSIGNMA      AIR017    Air017                           0.0
+ASSIGNMA      AIR018    Air018                           0.0
+ASSIGNMA      AIR019    Air019                           0.0
+ASSIGNMA      AIR020    Air020                           0.0
+ASSIGNMA      AIR021    Air021                           0.0
+ASSIGNMA      AIR022    Air022                           0.0
+ASSIGNMA      AIR023    Air023                           0.0
+ASSIGNMA      AIR024    Air024                           0.0
+ASSIGNMA      AIR025    Air025                           0.0
+ASSIGNMA      AIR026    Air026                           0.0
+ASSIGNMA      AIR027    Air027                           0.0
+ASSIGNMA      AIR028    Air028                           0.0
+ASSIGNMA      AIR029    Air029                           0.0
+ASSIGNMA      AIR030    Air030                           0.0
+ASSIGNMA      AIR031    Air031                           0.0
+ASSIGNMA      AIR032    Air032                           0.0
+ASSIGNMA      AIR033    Air033                           0.0
+ASSIGNMA      AIR034    Air034                           0.0
+ASSIGNMA      AIR035    Air035                           0.0
+ASSIGNMA      AIR036    Air036                           0.0
+ASSIGNMA      AIR037    Air037                           0.0
+ASSIGNMA      AIR038    Air038                           0.0
+ASSIGNMA      AIR039    Air039                           0.0
+ASSIGNMA      AIR040    Air040                           0.0
+ASSIGNMA      AIR041    Air041                           0.0
+ASSIGNMA      AIR042    Air042                           0.0
+ASSIGNMA      AIR043    Air043                           0.0
+ASSIGNMA      AIR044    Air044                           0.0
+ASSIGNMA      AIR045    Air045                           0.0
+ASSIGNMA      AIR046    Air046                           0.0
+ASSIGNMA      AIR047    Air047                           0.0
+ASSIGNMA      AIR048    Air048                           0.0
+ASSIGNMA      AIR049    Air049                           0.0
+ASSIGNMA      AIR050    Air050                           0.0
+ASSIGNMA      AIR051    Air051                           0.0
+ASSIGNMA      AIR052    Air052                           0.0
+ASSIGNMA      AIR053    Air053                           0.0
+ASSIGNMA      AIR054    Air054                           0.0
+ASSIGNMA      AIR055    Air055                           0.0
+ASSIGNMA      AIR056    Air056                           0.0
+ASSIGNMA      AIR057    Air057                           0.0
+ASSIGNMA      AIR058    Air058                           0.0
+ASSIGNMA      AIR059    Air059                           0.0
+ASSIGNMA      AIR060    Air060                           0.0
+ASSIGNMA      AIR061    Air061                           0.0
+ASSIGNMA      AIR062    Air062                           0.0
+ASSIGNMA      AIR063    Air063                           0.0
+ASSIGNMA      AIR064    Air064                           0.0
+ASSIGNMA      AIR065    Air065                           0.0
+ASSIGNMA      AIR066    Air066                           0.0
+ASSIGNMA      AIR067    Air067                           0.0
+ASSIGNMA      AIR068    Air068                           0.0
+ASSIGNMA      AIR069    Air069                           0.0
+ASSIGNMA      AIR070    Air070                           0.0
+ASSIGNMA      AIR071    Air071                           0.0
+ASSIGNMA      AIR072    Air072                           0.0
+ASSIGNMA      AIR073    Air073                           0.0
+ASSIGNMA      AIR074    Air074                           0.0
+ASSIGNMA      AIR075    Air075                           0.0
+ASSIGNMA      AIR076    Air076                           0.0
+ASSIGNMA      AIR077    Air077                           0.0
+ASSIGNMA      AIR078    Air078                           0.0
+ASSIGNMA      AIR079    Air079                           0.0
+ASSIGNMA      AIR080    Air080                           0.0
+ASSIGNMA      AIR081    Air081                           0.0
+ASSIGNMA      AIR082    Air082                           0.0
+ASSIGNMA      AIR083    Air083                           0.0
+ASSIGNMA      AIR084    Air084                           0.0
+ASSIGNMA      AIR085    Air085                           0.0
+ASSIGNMA      AIR086    Air086                           0.0
+ASSIGNMA      AIR087    Air087                           0.0
+ASSIGNMA      AIR088    Air088                           0.0
+ASSIGNMA      AIR089    Air089                           0.0
+ASSIGNMA      AIR090    Air090                           0.0
+ASSIGNMA      AIR091    Air091                           0.0
+ASSIGNMA      AIR092    Air092                           0.0
+ASSIGNMA      AIR093    Air093                           0.0
+ASSIGNMA      AIR094    Air094                           0.0
+ASSIGNMA      AIR095    Air095                           0.0
+ASSIGNMA      AIR096    Air096                           0.0
+ASSIGNMA      AIR097    Air097                           0.0
+ASSIGNMA      AIR098    Air098                           0.0
+ASSIGNMA      AIR099    Air099                           0.0
+ASSIGNMA      AIR100    Air100                           0.0
+ASSIGNMA    BLCKHOLE     Earth                           0.0
+ASSIGNMA      VACUUM    Vacuum                           0.0
+ASSIGNMA    BLCKHOLE    BlackH                           0.0
