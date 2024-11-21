@@ -83,9 +83,9 @@
 *              EKIN=ZERZER
       ENDIF
 
-      OPEN(1, FILE="second_source_info.dat")
+      OPEN(1, FILE="second_source1_info.dat")
 
-      IF(MRGNAM1 .EQ. "Air100" .AND. NRGNAM1 .EQ. "Earth")THEN
+      IF(MRGNAM1 .EQ. "Air001" .AND. NRGNAM1 .EQ. "Air002")THEN
         WRITE(1, *)  IJ, PLA, EKIN, TXX, TYY, TZZ, XX, YY, ZZ
       END IF
 
